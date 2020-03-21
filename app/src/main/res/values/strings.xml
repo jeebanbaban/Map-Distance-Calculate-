@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Map</string>
+
+    <string name="alert_dialog_title">Sortest Distance</string>
+    <string name="Sortest_distance_between">Sortest distance between</string>
+    <string name="points_is">points is:</string>
+    <string name="km"> km</string>
+
+    <string name="failed_distance_calculate">Falied to calculate distance!</string>
+    <string name="find_sortest_distance">find sortest distance</string>
+
+    <string name="progress_dialg_msg">Calculate Distance…</string>
+    <string name="alert_dialog_positive">SEND</string>
+    <string name="alert_dialog_negetive">CANCEL</string>
+    <string name="something_wrong">Something went to wrong!</string>
+    <string name="try_again">Try again after sometime!</string>
+    <string name="loading_geofences">Loading Geofences...</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="get_geofences">get geofences</string>
+</resources>
